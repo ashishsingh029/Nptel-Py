@@ -9,4 +9,5 @@ for i in range(n):
         A[i][j] *= s
 for row in A:
     for j in range(n-1):
-        print(row[j],e
+        print(row[j],end=' ')
+    print(row[n-1])
