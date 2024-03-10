@@ -1,2 +1,3 @@
 # Nptel-Py
-Git repository for answers for Joy of computing using python NPTEL course
+Git repository for answers of "Joy of computing using python" NPTEL course
+# Guarantee ❌❌❌
